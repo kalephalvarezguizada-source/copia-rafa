@@ -5,6 +5,11 @@ body {
     margin: 0;
     padding: 0;
 }
+#sobre-nosotros {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
 
 h1 {
     color: #2c3e50;
